@@ -1,9 +1,9 @@
 name: Build notebook
 on:
   push:
-    branches: [ "*" ]
+    #branches: [ "*" ]
     # Publish semver tags as releases.
-    tags: [ 'v*.*.*' ]
+    #tags: [ 'v*.*.*' ]
     #paths-ignore:
     #  - 'README.md'
     #  - '*.yaml'
