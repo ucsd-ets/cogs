@@ -1,3 +1,3 @@
-# COGS18-FA19-Notebook
+# COGS 18 Notebook
 
 Includes NLTK
