@@ -1,4 +1,4 @@
-FROM ucsdets/datascience-notebook:2021.3-stable
+FROM ucsdets/datascience-notebook:2023.1-stable
 
 LABEL maintainer="UC San Diego ITS/ETS <ets-consult@ucsd.edu>"
 
